@@ -4,4 +4,4 @@ The main purpose of this project is to Analyse, Manipulate and Visualise the Lit
 **Language Used** : Python <br>
 **Modules Used**  : Pandas, Matplotlib, Time
 
-It was my 12th standard final project and I have made it in a very basic structure!! Hope You Like It!
+It was my 12th standard final project and I have made it in a very basic structure!! *Hope You Like It!*

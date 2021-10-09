@@ -10,6 +10,7 @@ Points to remember while making a pull request :
 
 Languages allowed in this repo:
 - any programming language like Python , C++, etc.
+- make sure the files pushed through PR have the correct extension in their filename, according to the langauge you have used.
 - any markup language or associated files
 - readme files
 - no media files alone are not allowed.
